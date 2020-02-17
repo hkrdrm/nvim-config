@@ -1,3 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/Users/Matt/.oh-my-zsh/templates'
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/mattspiers/.vim/colors'
+let g:netrw_dirhist_5='/Users/mattspiers/workspace/ss-turbine/db/migrate'
+let g:netrw_dirhist_4='/Users/mattspiers/.config/git'
+let g:netrw_dirhist_3='/Users/mattspiers/workspace/ss-turbine'
+let g:netrw_dirhist_2='/Users/mattspiers/workspace/ss-turbine/app/commo/blast'
+let g:netrw_dirhist_1='/Users/mattspiers/workspace/ss-turbine'
+let g:netrw_dirhist_0='/Users/mattspiers/workspace/ss-turbine/app/commo/blast'
+let g:netrw_dirhist_9='/Users/mattspiers/workspace/ss-turbine/app/apis/nehi/resources'
+let g:netrw_dirhist_8='/Users/mattspiers/.rbenv/versions/2.3.0'
+let g:netrw_dirhist_7='/Users/mattspiers/workspace/ss-commo-jets/app/controllers'
